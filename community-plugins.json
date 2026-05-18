@@ -21738,7 +21738,7 @@
     "id": "flownote",
     "name": "FLOWnote",
     "author": "1095327780",
-    "description": "This plugin has not been manually reviewed by Obsidian staff. OpenCode-powered note management with built-in skills, one-click setup, and AI workflows.",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. AI-powered note management with built-in skills, direct API mode, optional OpenCode bridge, and mobile workflows.",
     "repo": "1095327780/FLOWnote"
   },
   {
