@@ -19150,5 +19150,12 @@
     "author": "marcelflymark",
     "description": "Insert line breaks into tables on mobile devices via shortcut or toolbar.",
     "repo": "marcelflymark/new-line-break-inside-table-cell"
+  },
+  {
+    "id": "flownote",
+    "name": "FLOWnote",
+    "author": "阿浩learn",
+    "description": "AI note workspace with dashboard home, quick capture, mobile shortcuts, built-in skills, and direct API workflows.",
+    "repo": "1095327780/FLOWnote"
   }
 ]
